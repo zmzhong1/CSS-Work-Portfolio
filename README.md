@@ -12,5 +12,7 @@ SO THAT I can review samples of their work and assess whether they're a good can
 ![alt text](Assets/images/screenshot.png)
 ````
 
+https://zmzhong1.github.io/CSS-Work-Portfolio/
 
+https://github.com/zmzhong1/CSS-Work-Portfolio
 
